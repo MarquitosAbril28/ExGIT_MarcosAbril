@@ -1,4 +1,4 @@
-#REPOSITORIO DEPARTAMENTO DE MARKETING
+#Repositorio de marketing
 
 Repositorio departamento de marketing de *Unicaja Baloncesto*
 
@@ -7,7 +7,7 @@ Repositorio departamento de marketing de *Unicaja Baloncesto*
   *Informes sobre campañas de abonos
 
 ###Web oficial del club
-La web oficial del club es [Web Oficial](www.google.es)
+La web oficial del club es [Web Oficial](https://www.google.com/?hl=es)
 
 ![Imagen logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.unicajabaloncesto.com/Images/Web/logo.png))
 
