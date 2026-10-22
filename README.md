@@ -1,10 +1,10 @@
-#Repositorio de marketing
+# Repositorio de marketing
 
 Repositorio departamento de marketing de *Unicaja Baloncesto*
 
-###En este repositorio podrás encontrar
-  *Imagenes del equipo :camera:
-  *Informes sobre campañas de abonos
+### En este repositorio podrás encontrar
+  * Imagenes del equipo :camera:
+  * Informes sobre campañas de abonos
 
 ###Web oficial del club
 La web oficial del club es [Web Oficial](https://www.google.com/?hl=es)
